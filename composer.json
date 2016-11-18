@@ -13,11 +13,6 @@
 		"psr-4": {
 			"john\\": "src/"
 		}
-	},
-	"extra": {
-        "branch-alias": {
-            "dev-master": "dev"
-        }
-    }
+	}
 	
 }

@@ -14,5 +14,10 @@
 			"john\\": "src/"
 		}
 	},
+	"extra": {
+        "branch-alias": {
+            "dev-master": "dev"
+        }
+    }
 	
 }
